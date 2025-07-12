@@ -46,6 +46,18 @@ Contributions are welcome! To contribute to this project, please follow these st
 
 Please make sure your code adheres to the existing style and includes appropriate tests where necessary.
 
+## Contributing
+
+Contributions are welcome! To contribute to this project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bugfix.
+3. Make your changes with clear, concise commit messages.
+4. Test your changes.
+5. Submit a pull request describing your changes and why they should be merged.
+
+Please make sure your code adheres to the existing style and includes appropriate tests where necessary.
+
 ## Usage
 
 ```bash
